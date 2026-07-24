@@ -119,12 +119,14 @@ Features include:
 
 ```text
 .
-├── 1.py    # Biased coin generation
-├── 2.py    # Inverse CDF & rejection sampling
-├── 3.py    # Importance sampling
-├── 4.py    # Central Limit Theorem verification
-├── 5.py    # Multivariate Gaussian simulation
-└── README.md
+├── README.md
+├── PRV26_Programming_Assignment.pdf
+│
+├── biased_coin.py
+├── inverse_cdf_and_rejection_sampling.py
+├── importance_sampling.py
+├── clt_verification.py
+└── multivariate_gaussian.py
 ```
 
 ---
